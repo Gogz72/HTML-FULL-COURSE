@@ -1,0 +1,36 @@
+body 
+{
+background-color: #333;
+color: whitesmoke;
+}
+
+p
+{
+    font-size: 15px;
+}
+
+h1
+{
+    font-size: 50px;
+}
+
+h4
+{
+    font-size: 70px; 
+    color: red;
+}
+a
+{
+color: aliceblue;
+}
+
+a:visited
+{
+    color: lightgray;
+}
+
+a:hover, a:active
+{
+    color: #eee ;
+}
+
