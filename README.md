@@ -36,4 +36,4 @@ Each file in this repo is a self-contained lesson focusing on a specific concept
 4. Modify and experiment to solidify your understanding.
 
 ```bash
-git clone https://github.com/your-username/mastering-html.git
+[git clone https://github.com/your-username/mastering-html.git](https://github.com/Gogz72/HTML-FULL-COURSE.git)
