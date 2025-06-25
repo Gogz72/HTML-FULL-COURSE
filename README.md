@@ -20,8 +20,7 @@ Each file in this repo is a self-contained lesson focusing on a specific concept
 | 06         | Tables in HTML                   |
 | 07         | Forms and Input Elements         |
 | 08         | Semantic HTML Elements           |
-| 09         | Embedding Audio, Video & IFrames |
-| 10         | Final Mini Project               |
+| 09         | Final Mini Project               |
 
 ## 🧠 Who Is This For?
 
